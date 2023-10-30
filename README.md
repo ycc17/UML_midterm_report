@@ -43,7 +43,19 @@
 ![聚合關係](https://github.com/ycc17/UML_midterm_report/assets/91513230/191bd031-f73b-4941-a9ac-60416bb36226)
 
 ## 類圖實作
-![image]()
+![image](https://github.com/ycc17/UML_midterm_report/blob/main/%E6%9C%9F%E4%B8%AD%E9%A1%9E%E5%9C%96.jpg)
 
+## UML物件圖
+顯示了某一時刻的一組物件及它們之間的關係。物件圖可被視為類別圖的實例,用來表達各個物件在某一時刻的狀態。
+
+![對象圖範例](https://github.com/ycc17/UML_midterm_report/assets/91513230/c2984313-9e1b-4203-ab31-4e8cf933ca32)
+
+### 物件圖說明
+* stu 實例名稱，Student 所屬類別。
+1. 第一行：物件名稱
+2. 第二行：實例屬性具體值
+* stu:Student 標準表示法
+* :Student 匿名表示法
+* stu 省略類別名表示法
 ## 對象圖實作
-![image]()
+![image](https://github.com/ycc17/UML_midterm_report/blob/main/UML%E5%B0%8D%E8%B1%A1%E5%9C%96.jpg)
