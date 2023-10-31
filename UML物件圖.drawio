@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net" modified="2023-10-25T13:02:16.434Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="X3KhvXNoYNA3hTbyHNU5" version="22.0.8" type="google">
+  <diagram name="第 1 页" id="dDc2eWABMgEq9ZduFpr5">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aqQf_CLEM_ULFuolbEhW-1" value="&lt;u&gt;&lt;b&gt;s：School&lt;/b&gt;&lt;/u&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="345" y="30" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aqQf_CLEM_ULFuolbEhW-2" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;c2：Classz&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;classNo = 2&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;name = 二班&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="480" y="140" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aqQf_CLEM_ULFuolbEhW-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;c1：Classz&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;classNo = 1&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;name = 一班&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="160" y="140" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aqQf_CLEM_ULFuolbEhW-4" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;stu：Student&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;name = 張三&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;stuId = 126666660&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="160" y="260" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aqQf_CLEM_ULFuolbEhW-5" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;contactInfo&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;address = 清華大學&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="340" y="360" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aqQf_CLEM_ULFuolbEhW-7" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aqQf_CLEM_ULFuolbEhW-1" target="aqQf_CLEM_ULFuolbEhW-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="110" as="sourcePoint" />
+            <mxPoint x="589" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aqQf_CLEM_ULFuolbEhW-8" value="+classz" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="aqQf_CLEM_ULFuolbEhW-7">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="-20" y="-40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aqQf_CLEM_ULFuolbEhW-9" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="aqQf_CLEM_ULFuolbEhW-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="139.5" as="sourcePoint" />
+            <mxPoint x="400" y="79.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="110" />
+              <mxPoint x="400" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aqQf_CLEM_ULFuolbEhW-10" value="+classz" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="aqQf_CLEM_ULFuolbEhW-9">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="-100" y="21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aqQf_CLEM_ULFuolbEhW-12" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="aqQf_CLEM_ULFuolbEhW-4" target="aqQf_CLEM_ULFuolbEhW-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="174" y="270" as="sourcePoint" />
+            <mxPoint x="344" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aqQf_CLEM_ULFuolbEhW-13" value="+monitor" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="aqQf_CLEM_ULFuolbEhW-12">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="60" y="50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aqQf_CLEM_ULFuolbEhW-14" value="" style="endArrow=none;html=1;rounded=0;exitX=0.563;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="aqQf_CLEM_ULFuolbEhW-5" target="aqQf_CLEM_ULFuolbEhW-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="455" y="310" as="sourcePoint" />
+            <mxPoint x="455" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aqQf_CLEM_ULFuolbEhW-15" value="+contact" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="aqQf_CLEM_ULFuolbEhW-14">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="170" y="40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
