@@ -16,7 +16,9 @@
 2. ' #'表示保護(protected)
 3. '+'表示公開(public)
 
-![image](https://github.com/ycc17/UML_midterm_report/blob/main/%E7%AF%84%E4%BE%8B%E9%A1%9E%E5%9C%96.jpg)
+## 類圖實作
+![image](https://github.com/ycc17/UML_midterm_report/blob/main/%E6%9C%9F%E4%B8%AD%E9%A1%9E%E5%9C%96.jpg)
+
 ### 依賴關係
 虛線箭頭表示：
 
@@ -42,8 +44,7 @@
 
 ![聚合關係](https://github.com/ycc17/UML_midterm_report/assets/91513230/191bd031-f73b-4941-a9ac-60416bb36226)
 
-## 類圖實作
-![image](https://github.com/ycc17/UML_midterm_report/blob/main/%E6%9C%9F%E4%B8%AD%E9%A1%9E%E5%9C%96.jpg)
+
 
 ## UML物件圖
 顯示了某一時刻的一組物件及它們之間的關係。物件圖可被視為類別圖的實例,用來表達各個物件在某一時刻的狀態。
