@@ -53,7 +53,7 @@
 顯示了某一時刻的一組物件及它們之間的關係。物件圖可被視為類別圖的實例,用來表達各個物件在某一時刻的狀態。
 
 ### 物件圖實作
-![image](https://github.com/ycc17/UML_midterm_report/blob/main/UML%E5%B0%8D%E8%B1%A1%E5%9C%96.jpg)
+![image](https://github.com/ycc17/UML_midterm_report/blob/main/UML%E7%89%A9%E4%BB%B6%E5%9C%96.drawio)
 
 ### 物件圖說明
 * stu 實例名稱，Student 所屬類別。
