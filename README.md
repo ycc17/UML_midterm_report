@@ -22,34 +22,38 @@
 ### 依賴關係
 虛線箭頭表示：
 
-![依賴關係](https://github.com/ycc17/UML_midterm_report/assets/91513230/2c672e71-aa7a-4b32-b8e1-e26b21d4325f)
+<img width="410" alt="依賴" src="https://github.com/ycc17/UML_midterm_report/assets/91513230/70eeccda-f718-425f-8fc0-8f18b48bf757">
+
 ### 繼承關係
 實線空心三角形箭头表示：
 
-![繼承關係](https://github.com/ycc17/UML_midterm_report/assets/91513230/5298b90c-4a29-4d63-a3fe-794036c140f6)
+<img width="106" alt="繼承" src="https://github.com/ycc17/UML_midterm_report/assets/91513230/7aa96363-c8ba-48fb-9007-80f838129630">
+
 ### 實現關係
 虛線空心三角形箭头表示：
 
-![實現關係](https://github.com/ycc17/UML_midterm_report/assets/91513230/56de1579-dc1d-437e-a888-42fad93b22c0)
+<img width="111" alt="實現" src="https://github.com/ycc17/UML_midterm_report/assets/91513230/ec4875f7-4e16-491d-9dc8-0efc11f9c46d">
+
 ### 關聯關係
 實線表示：
 
-![關聯關係](https://github.com/ycc17/UML_midterm_report/assets/91513230/9b69e15c-a51f-4038-b10e-d2ac4331c09d)
+<img width="256" alt="關聯" src="https://github.com/ycc17/UML_midterm_report/assets/91513230/f5946158-88ea-4adb-8a22-5eee6b3c1b00">
+
 ### 組合關係
 實線黑色菱形表示：
 
-![組合關係](https://github.com/ycc17/UML_midterm_report/assets/91513230/fe63587e-5bc9-4813-b585-96d0bbe565c6)
+<img width="338" alt="組合" src="https://github.com/ycc17/UML_midterm_report/assets/91513230/133bf85d-ba7a-411b-b76e-9b8d4b2b6c6d">
+
 ### 聚合關係
 實線空心菱形表示：
 
-![聚合關係](https://github.com/ycc17/UML_midterm_report/assets/91513230/191bd031-f73b-4941-a9ac-60416bb36226)
-
-
+<img width="305" alt="聚合" src="https://github.com/ycc17/UML_midterm_report/assets/91513230/65ccddc3-b4e2-4a74-bce3-9372500a0f2c">
 
 ## UML物件圖
 顯示了某一時刻的一組物件及它們之間的關係。物件圖可被視為類別圖的實例,用來表達各個物件在某一時刻的狀態。
 
-![對象圖範例](https://github.com/ycc17/UML_midterm_report/assets/91513230/c2984313-9e1b-4203-ab31-4e8cf933ca32)
+### 物件圖實作
+![image](https://github.com/ycc17/UML_midterm_report/blob/main/UML%E5%B0%8D%E8%B1%A1%E5%9C%96.jpg)
 
 ### 物件圖說明
 * stu 實例名稱，Student 所屬類別。
@@ -58,8 +62,6 @@
 * stu:Student 標準表示法
 * :Student 匿名表示法
 * stu 省略類別名表示法
-## 物件圖實作
-![image](https://github.com/ycc17/UML_midterm_report/blob/main/UML%E5%B0%8D%E8%B1%A1%E5%9C%96.jpg)
 
 ## 參考文章
 * https://zhuanlan.zhihu.com/p/553581694
