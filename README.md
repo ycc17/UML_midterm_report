@@ -17,7 +17,7 @@
 3. '+'表示公開(public)
 
 ## 類圖實作
-![image](https://github.com/ycc17/UML_midterm_report/blob/main/%E6%9C%9F%E4%B8%AD%E9%A1%9E%E5%9C%96.jpg)
+![image](https://github.com/ycc17/UML_midterm_report/blob/main/image/%E6%9C%9F%E4%B8%AD%E9%A1%9E%E5%9C%96.drawio.png)
 
 ### 依賴關係
 虛線箭頭表示：
@@ -27,29 +27,29 @@
 ### 繼承關係
 實線空心三角形箭头表示：
 
-![image](https://github.com/ycc17/UML_midterm_report/blob/main/image/%E4%BE%9D%E8%B3%B4.png)
+![image](https://github.com/ycc17/UML_midterm_report/blob/main/image/%E7%B9%BC%E6%89%BF.png)
 
 ### 實現關係
 虛線空心三角形箭头表示：
 
-![image](https://github.com/ycc17/UML_midterm_report/blob/main/image/%E4%BE%9D%E8%B3%B4.png)
+![image](https://github.com/ycc17/UML_midterm_report/blob/main/image/%E5%AF%A6%E7%8F%BE.png)
 ### 關聯關係
 實線表示：
 
-![image](https://github.com/ycc17/UML_midterm_report/blob/main/image/%E4%BE%9D%E8%B3%B4.png)
+![image](https://github.com/ycc17/UML_midterm_report/blob/main/image/%E9%97%9C%E8%81%AF.png)
 ### 組合關係
 實線黑色菱形表示：
 
-![image](https://github.com/ycc17/UML_midterm_report/blob/main/image/%E4%BE%9D%E8%B3%B4.png)
+![image](https://github.com/ycc17/UML_midterm_report/blob/main/image/%E7%B5%84%E5%90%88.png)
 ### 聚合關係
 實線空心菱形表示：
 
-![image](https://github.com/ycc17/UML_midterm_report/blob/main/image/%E4%BE%9D%E8%B3%B4.png)
+![image](https://github.com/ycc17/UML_midterm_report/blob/main/image/%E8%81%9A%E5%90%88.png)
 ## UML物件圖
 顯示了某一時刻的一組物件及它們之間的關係。物件圖可被視為類別圖的實例,用來表達各個物件在某一時刻的狀態。
 
 ### 物件圖實作
-![image](https://github.com/ycc17/UML_midterm_report/blob/main/UML%E7%89%A9%E4%BB%B6%E5%9C%96.drawio)
+![image](https://github.com/ycc17/UML_midterm_report/blob/main/image/UML%E7%89%A9%E4%BB%B6%E5%9C%96.drawio.png)
 
 ### 物件圖說明
 * stu 實例名稱，Student 所屬類別。
