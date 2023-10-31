@@ -22,33 +22,29 @@
 ### 依賴關係
 虛線箭頭表示：
 
-<img width="410" alt="依賴" src="https://github.com/ycc17/UML_midterm_report/assets/91513230/70eeccda-f718-425f-8fc0-8f18b48bf757">
+![image](https://github.com/ycc17/UML_midterm_report/blob/main/image/%E4%BE%9D%E8%B3%B4.png)
 
 ### 繼承關係
 實線空心三角形箭头表示：
 
-<img width="106" alt="繼承" src="https://github.com/ycc17/UML_midterm_report/assets/91513230/7aa96363-c8ba-48fb-9007-80f838129630">
+![image](https://github.com/ycc17/UML_midterm_report/blob/main/image/%E4%BE%9D%E8%B3%B4.png)
 
 ### 實現關係
 虛線空心三角形箭头表示：
 
-<img width="111" alt="實現" src="https://github.com/ycc17/UML_midterm_report/assets/91513230/ec4875f7-4e16-491d-9dc8-0efc11f9c46d">
-
+![image](https://github.com/ycc17/UML_midterm_report/blob/main/image/%E4%BE%9D%E8%B3%B4.png)
 ### 關聯關係
 實線表示：
 
-<img width="256" alt="關聯" src="https://github.com/ycc17/UML_midterm_report/assets/91513230/f5946158-88ea-4adb-8a22-5eee6b3c1b00">
-
+![image](https://github.com/ycc17/UML_midterm_report/blob/main/image/%E4%BE%9D%E8%B3%B4.png)
 ### 組合關係
 實線黑色菱形表示：
 
-<img width="338" alt="組合" src="https://github.com/ycc17/UML_midterm_report/assets/91513230/133bf85d-ba7a-411b-b76e-9b8d4b2b6c6d">
-
+![image](https://github.com/ycc17/UML_midterm_report/blob/main/image/%E4%BE%9D%E8%B3%B4.png)
 ### 聚合關係
 實線空心菱形表示：
 
-<img width="305" alt="聚合" src="https://github.com/ycc17/UML_midterm_report/assets/91513230/65ccddc3-b4e2-4a74-bce3-9372500a0f2c">
-
+![image](https://github.com/ycc17/UML_midterm_report/blob/main/image/%E4%BE%9D%E8%B3%B4.png)
 ## UML物件圖
 顯示了某一時刻的一組物件及它們之間的關係。物件圖可被視為類別圖的實例,用來表達各個物件在某一時刻的狀態。
 
